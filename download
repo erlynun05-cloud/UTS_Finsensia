@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+# Do not commit source transaction data unless you have permission to publish it.
+*.xlsx
+*.xls
+*.csv
+*.pdf
